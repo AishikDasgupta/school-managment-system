@@ -8,8 +8,8 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ServieGO School Management Dashboard",
-  description: "Our most reliable School Management System",
+  title: "SchoolGO",
+  description: "Your most reliable School Management System",
 };
 
 export default function DashboardLayout({
