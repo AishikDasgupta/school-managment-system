@@ -9,7 +9,7 @@ const Navbar = () => {
         <input
           type="text"
           placeholder="Search..."
-          className="w-[200px] p-2 bg-transparent outline-none"
+          className="w-[710px] p-2 bg-transparent outline-none"
         />
       </div>
       {/* ICONS AND USER */}
