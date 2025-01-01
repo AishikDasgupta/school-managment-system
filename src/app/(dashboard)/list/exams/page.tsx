@@ -75,7 +75,7 @@ const ExamListPage = () => {
             <button className="w-8 h-8 flex items-center justify-center rounded-full bg-GoYellow">
               <Image src="/sort.png" alt="" width={14} height={14} />
             </button>
-            {role === "admin" || role === "teacher" && <FormModal  />}
+            {role === "admin" || role === "teacher" && <FormModal />}
           </div>
         </div>
       </div>
